@@ -1,3 +1,9 @@
-h1{
-    color: red;
+h1,h2{
+    
+    font-size: 30px;
+    
+}
+h2 .name-highlight{
+    color: orange;
+    font-family: 'Redressed', cursive;
 }
